@@ -4,8 +4,7 @@
 # 🪙 Gestão Hospitalar
 👨‍🎓
 
-> [!NOTE]
-> Plataforma web para reconhecimento do mérito acadêmico por meio de uma moeda virtual, permitindo que professores recompensem alunos e que alunos troquem moedas por vantagens oferecidas por empresas parceiras.
+
 
 <table>
   <tr>
